@@ -32,29 +32,29 @@
 
 ---
 
-### 💼 // FEATURED PROJECTS & WORKSHOWCASE
+### 💼 // FEATURED PROJECTS & WORK SHOWCASE
 
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 AI SaaS Platform</h3>
+      <h3 align="center">🧠 LearnEng-Maya-AI</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI-Voice_%26_NLP-7B2CBF?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       </p>
-      <p>Full-stack AI automation dashboard featuring LLM chat assistants, real-time data processing, and subscription payment integration.</p>
-      <p align="center"><b><a href="https://github.com/Jatinnn-ui">View Repository 🔗</a></b></p>
+      <p>An intelligent AI-powered English learning assistant designed for real-time interactive language practice, voice conversation, and natural feedback loops.</p>
+      <p align="center"><b><a href="https://github.com/Jatinnn-ui/LearnEng-Maya-AI" target="_blank">Explore Repository 🔗</a></b></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">⚡ Enterprise Web App</h3>
+      <h3 align="center">🎬 SceneForge</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Full--Stack-Creative_Studio-00F0FF?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
       </p>
-      <p>High-performance web portal built for seamless data management, role-based authentication, and optimized API responses.</p>
-      <p align="center"><b><a href="https://github.com/Jatinnn-ui">View Repository 🔗</a></b></p>
+      <p>A modern scene creation and storyboarding platform tailored for creators to design, structure, and visualize digital scenes seamlessly.</p>
+      <p align="center"><b><a href="https://github.com/Jatinnn-ui/SceneForge" target="_blank">Explore Repository 🔗</a></b></p>
     </td>
   </tr>
 </table>
@@ -76,16 +76,11 @@
 
 ---
 
-### 📈 // GITHUB PERFORMANCE STATS
-
-<div align="center">
+### 📈 // INTERACTIVE ACTIVITY & COMMIT GRAPH
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jatinnn-ui&show_icons=true&theme=synthwave&hide_border=true&title_color=00f0ff&icon_color=7b2cbf&text_color=ffffff&bg_color=090d16" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jatinnn-ui&layout=compact&theme=synthwave&hide_border=true&title_color=00f0ff&text_color=ffffff&bg_color=090d16" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jatinnn-ui&theme=synthwave&hide_border=true&area=true" width="100%" />
 </p>
-
-</div>
 
 ---
 
