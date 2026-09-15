@@ -73,6 +73,16 @@
 
 ### 📈 // INTERACTIVE ACTIVITY & COMMIT GRAPH
 
+### 🐍 // CONTRIBUTION SNAKE ANIMATION
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jatinnn-ui/Jatinnn-ui/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+</p>
+
+---
+
+### 📈 // INTERACTIVE ACTIVITY & COMMIT GRAPH
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jatinnn-ui&theme=synthwave&hide_border=true&area=true" width="100%" />
 </p>
