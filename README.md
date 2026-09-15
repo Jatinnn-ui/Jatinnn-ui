@@ -1,29 +1,29 @@
 <div align="center">
 
-<!-- ELEGANT CLAY TYPING HEADER -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=32&pause=1000&color=C18C5D&center=true&vCenter=true&width=750&lines=JATIN+%E2%80%94+DEVELOPER+%26+CREATOR%E2%9C%A8;Crafting+Digital+Experiences+%F0%9F%8F%B7%EF%B8%8F;Full-Stack+%2B+AI+Craftsmanship%F0%9F%A4%8C" alt="Clay Typing Header" />
+<!-- PIXEL GAME TYPING HEADER -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&pause=1000&color=FF007F&center=true&vCenter=true&width=800&lines=%E2%9A%94%EF%B8%8F+PLAYER+1%3A+JATIN+%5BREADY%5D;%F0%9F%90%BE+LEVEL+99+FULL-STACK+%2B+AI+DEV;%F0%9F%8E%AE+PRESS+START+TO+EXPLORE..." alt="Pixel Typing Header" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AESTHETIC-CLAYMORPHIC-D9A05B?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/CRAFT-FULL__STACK_%26_AI-A45A2A?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/LOCATION-INDIA-8C4626?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/HP-100%2F100-ff0055?style=for-the-badge&logo=retroarch&logoColor=white" />
+  <img src="https://img.shields.io/badge/CLASS-FULL_STACK_MAGE-00f0ff?style=for-the-badge&logo=gamepad&logoColor=black" />
+  <img src="https://img.shields.io/badge/MANA-INFINITE-9d4edd?style=for-the-badge&logo=lightning&logoColor=white" />
 </p>
 
-<!-- VISITOR COUNTER CLAY BADGE -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jatinnn-ui&label=STUDIO%20VISITS&color=c18c5d&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Jatinnn-ui&label=ARCADE_COINS_INSERTED&color=ff007f&style=flat-square" />
 </p>
 
 </div>
 
 ---
 
-### 🏺 // THE STUDIO & PHILOSOPHY
+### 🕹️ // CHARACTER STATS & SPELLS
 
-> *"Simplicity is about subtracting the obvious and adding the meaningful."*
-
-```yaml
-Architect    : Jatin (Jatinnn-ui)
-Focus        : Full-Stack Web Development & AI Interfaces
-Design Vibe  : Warm Clay, Soft Geometry & Minimalist Aesthetics
-Passions     : Crafting UI/UX, AI Integrations & Clean Codebases
+```json
+{
+  "Player": "Jatin (Jatinnn-ui)",
+  "Role": "Full-Stack & AI Sorcerer",
+  "SpecialAttacks": ["React Slash", "Next.js Warp", "Python AI Summoning"],
+  "Inventory": ["TypeScript", "Node.js", "Docker", "MongoDB", "PostgreSQL"],
+  "Quest": "Building legendary digital experiences"
+}
