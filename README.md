@@ -1,34 +1,29 @@
 <div align="center">
 
-<!-- GLITCH TYPING SVG HEADER -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=800&lines=%3E_WELCOME+TO+JATIN'S+CYBER+SPACE;%3E_INITIALIZING+FULLSTACK_+AI_CORE...;%3E_STATUS%3A+UNSTOPPABLE_DEV;%3E_SYSTEM_OVERRIDE%3A+ACTIVE" alt="Glitch Header" />
+<!-- ELEGANT CLAY TYPING HEADER -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=32&pause=1000&color=C18C5D&center=true&vCenter=true&width=750&lines=JATIN+%E2%80%94+DEVELOPER+%26+CREATOR%E2%9C%A8;Crafting+Digital+Experiences+%F0%9F%8F%B7%EF%B8%8F;Full-Stack+%2B+AI+Craftsmanship%F0%9F%A4%8C" alt="Clay Typing Header" />
 
-<br/>
-
-<!-- SYSTEM STATUS HUD -->
 <p align="center">
-  <img src="https://img.shields.io/badge/SECURITY-ROOT_ACCESS_GRANTED-00FF66?style=for-the-badge&logo=gnu-bash&logoColor=black" />
-  <img src="https://img.shields.io/badge/ARCH-FULL_STACK_%2B_AI-FF0055?style=for-the-badge&logo=hyper&logoColor=white" />
-  <img src="https://img.shields.io/badge/CORE_TEMP-99.9%25_OPTIMAL-00F0FF?style=for-the-badge&logo=nvidia&logoColor=black" />
+  <img src="https://img.shields.io/badge/AESTHETIC-CLAYMORPHIC-D9A05B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/CRAFT-FULL__STACK_%26_AI-A45A2A?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LOCATION-INDIA-8C4626?style=for-the-badge&logoColor=white" />
 </p>
 
-<!-- VISITOR COUNTER GLITCH BADGE -->
+<!-- VISITOR COUNTER CLAY BADGE -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jatinnn-ui&label=CYBER_PULSE_VISITS&color=00ff66&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Jatinnn-ui&label=STUDIO%20VISITS&color=c18c5d&style=flat-square" />
 </p>
 
 </div>
 
 ---
 
-### ⚡ // KERNEL LOGS (ABOUT ME)
+### 🏺 // THE STUDIO & PHILOSOPHY
 
-```bash
-[root@jatin-cyber-node ~]# cat /etc/identity.conf
+> *"Simplicity is about subtracting the obvious and adding the meaningful."*
 
-IDENTITY     : Jatin (aka Jatinnn-ui)
-CLASS        : Full-Stack Architect & AI Systems Engineer
-CLEARANCE    : Level 5 (Root Access)
-WEAPONS      : React, Next.js, Node.js, Python, OpenAI, Vector DBs
-MISSION      : Breaking monoliths, building intelligent autonomous systems.
-LOCATION     : India [20.5937° N, 78.9629° E]
+```yaml
+Architect    : Jatin (Jatinnn-ui)
+Focus        : Full-Stack Web Development & AI Interfaces
+Design Vibe  : Warm Clay, Soft Geometry & Minimalist Aesthetics
+Passions     : Crafting UI/UX, AI Integrations & Clean Codebases
