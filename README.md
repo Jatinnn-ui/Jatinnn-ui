@@ -1,8 +1,3 @@
-<div align="center">
-
-<!-- GLOWING GLASSMORPHIC TYPING HEADER -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=34&pause=1000&color=00F0FF&center=true&vCenter=true&width=850&lines=JATIN+%2F%2F+FULL-STACK+%2B+AI+ENGINEER;BUILDING+SCALABLE+WEB+SYSTEMS+%F0%9F%9A%80;CRAFTING+INTELLIGENT+AI+APPLICATIONS+%F0%9F%A4%96" alt="Holographic Header" />
-
 <p align="center">
   <b>Software Developer with hands-on experience building full-stack & AI-powered applications.</b>
 </p>
@@ -103,3 +98,4 @@
 <sub>✨ DESIGNED FOR JATINNN-UI // STAR MY REPOSITORIES IF YOU LIKE MY WORK ✨</sub>
 
 </div>
+```
