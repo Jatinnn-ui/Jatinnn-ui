@@ -32,14 +32,6 @@
 
 ---
 
-### 🏆 // GITHUB ACHIEVEMENTS & TROPHIES
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jatinnn-ui&theme=darkhub&no-frame=true&column=6&margin-w=15" width="100%" />
-</div>
-
----
-
 ### 💼 // FEATURED PROJECTS & WORKSHOWCASE
 
 <table border="0">
@@ -84,34 +76,16 @@
 
 ---
 
-### 📊 // SYSTEM ANALYTICS & ACTIVITY
+### 📈 // GITHUB PERFORMANCE STATS
 
 <div align="center">
 
-<table border="0">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Jatinnn-ui&show_icons=true&theme=synthwave&hide_border=true&title_color=00f0ff&icon_color=7b2cbf&text_color=ffffff&bg_color=090d16" width="100%"/>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jatinnn-ui&layout=compact&theme=synthwave&hide_border=true&title_color=00f0ff&text_color=ffffff&bg_color=090d16" width="100%"/>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jatinnn-ui&theme=synthwave&hide_border=true&background=090d16&stroke=00f0ff&ring=7b2cbf&fire=ff007f" width="98%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jatinnn-ui&show_icons=true&theme=synthwave&hide_border=true&title_color=00f0ff&icon_color=7b2cbf&text_color=ffffff&bg_color=090d16" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jatinnn-ui&layout=compact&theme=synthwave&hide_border=true&title_color=00f0ff&text_color=ffffff&bg_color=090d16" width="48%" />
+</p>
 
 </div>
-
----
-
-### 🐍 // CONTRIBUTION HEATMAP STREAM
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Jatinnn-ui/Jatinnn-ui/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
-</p>
 
 ---
 
