@@ -1,26 +1,38 @@
-<!-- HEADER BANNER / TYPING ANIMATION -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hey+there!+%F0%9F%91%8B+I'm+Jatin;Full-Stack+%26+AI+Developer+%F0%9F%A4%96;Building+Modern+Web+Apps+%F0%9F%9A%80" alt="Typing SVG" />
-</h1>
+<div align="center">
 
+<!-- HERO TYPING HEADER -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=34&pause=1000&color=A9B1D6&center=true&vCenter=true&width=750&lines=%3F%3F+SYSTEM.INIT()%3B;I'AM+JATIN+%2F%2F+SOFTWARE+ENGINEER;FULL-STACK+%2B+AI-POWERED+SYSTEMS;BUILDING+THE+FUTURE+OF+WEB%E2%9C%A8" alt="Typing Header" />
+
+<br/>
+
+<!-- CUSTOM HUD SYSTEM BADGES -->
 <p align="center">
-  <b>✨ Software Developer | Building Full-Stack & AI-Powered Applications ✨</b>
+  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF66?style=for-the-badge&logo=opsgenie&logoColor=black" />
+  <img src="https://img.shields.io/badge/FOCUS-FULL__STACK_%26_AI-8A2BE2?style=for-the-badge&logo=brainly&logoColor=white" />
+  <img src="https://img.shields.io/badge/LOCATION-INDIA_🇮🇳-00F0FF?style=for-the-badge&logo=googlemaps&logoColor=black" />
 </p>
 
+<!-- VISITOR COUNTER WITH METRICS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jatinnn-ui&label=Profile%20Views&color=00f0ff&style=flat-square" alt="Views" />
-  <img src="https://img.shields.io/badge/Maintained%3F-Yes-brightgreen?style=flat-square" alt="Maintained" />
-  <img src="https://img.shields.io/badge/Open%20To-Collaborations%20%F0%9F%A4%9D-orange?style=flat-square" alt="Status" />
+  <img src="https://komarev.com/ghpvc/?username=Jatinnn-ui&label=TERMINAL%20ACCESS%20COUNT&color=1a1b26&style=flat-square" />
 </p>
 
-<br />
+</div>
 
 ---
 
-### 👨‍💻 About Me
+### 🎛️ // SYSTEM SPECIFICATIONS & BIO
 
-```text
-🚀 Specialization : Full-Stack Web Development & AI Apps
-💡 Interests      : GenAI, Smart Automation, Web3 & Clean Code
-🎯 Goal           : Building scalable products that impact millions
-⚡ Fun Fact        : I spend more time naming variables than writing logic 😅
+```typescript
+const ENGINEER = {
+  name: "Jatin",
+  handle: "Jatinnn-ui",
+  role: "Full Stack & AI Engineer",
+  architecture: ["Distributed Systems", "GenAI Integration", "Modern Web Apps"],
+  corePhilosophies: [
+    "Clean Code > Clever Code",
+    "Performance & Scalability First",
+    "Continuous Evolution"
+  ],
+  status: "Deploying high-impact applications"
+};
