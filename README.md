@@ -76,8 +76,6 @@
 
 ---
 
-### 📈 // INTERACTIVE ACTIVITY & COMMIT GRAPH
-
 ### 🐍 // CONTRIBUTION SNAKE ANIMATION
 
 <p align="center">
@@ -86,10 +84,11 @@
 
 ---
 
-### 📈 // INTERACTIVE ACTIVITY & COMMIT GRAPH
+### 📈 // INTERACTIVE COMMIT METRICS
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jatinnn-ui&theme=synthwave&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jatinnn-ui&show_icons=true&theme=synthwave&hide_border=true&title_color=00f0ff&icon_color=7b2cbf&text_color=ffffff&bg_color=090d16" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jatinnn-ui&layout=compact&theme=synthwave&hide_border=true&title_color=00f0ff&text_color=ffffff&bg_color=090d16" width="48%" />
 </p>
 
 ---
