@@ -42,14 +42,14 @@
       <p align="center"><b><a href="https://github.com/Jatinnn-ui/LearnEng-Maya-AI" target="_blank">Explore Repository 🔗</a></b></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎬 SceneForge</h3>
+      <h3 align="center">🚀 DeployLane</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Full--Stack-Creative_Studio-00F0FF?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/DevOps-Deployment_Platform-00F0FF?style=flat-square&logo=docker&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
       </p>
-      <p>A modern scene creation and storyboarding platform tailored for creators to design, structure, and visualize digital scenes seamlessly.</p>
-      <p align="center"><b><a href="https://github.com/Jatinnn-ui/SceneForge" target="_blank">Explore Repository 🔗</a></b></p>
+      <p>A streamlined deployment and DevOps automation platform engineered for smooth application hosting, pipeline management, and cloud infrastructure workflows.</p>
+      <p align="center"><b><a href="https://github.com/Jatinnn-ui/DeployLane" target="_blank">Explore Repository 🔗</a></b></p>
     </td>
   </tr>
 </table>
