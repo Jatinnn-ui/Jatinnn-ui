@@ -1,24 +1,34 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%90%8B%2C+I'm+Jatin!;Full-Stack+%26+AI+Developer+%F0%9F%90%A7;Building+Scalable+Web+Apps+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
-</h1>
+<div align="center">
 
+<!-- GLITCH TYPING SVG HEADER -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=800&lines=%3E_WELCOME+TO+JATIN'S+CYBER+SPACE;%3E_INITIALIZING+FULLSTACK_+AI_CORE...;%3E_STATUS%3A+UNSTOPPABLE_DEV;%3E_SYSTEM_OVERRIDE%3A+ACTIVE" alt="Glitch Header" />
+
+<br/>
+
+<!-- SYSTEM STATUS HUD -->
 <p align="center">
-  <em>Software Developer with hands-on experience in building full-stack and AI-powered applications.</em>
+  <img src="https://img.shields.io/badge/SECURITY-ROOT_ACCESS_GRANTED-00FF66?style=for-the-badge&logo=gnu-bash&logoColor=black" />
+  <img src="https://img.shields.io/badge/ARCH-FULL_STACK_%2B_AI-FF0055?style=for-the-badge&logo=hyper&logoColor=white" />
+  <img src="https://img.shields.io/badge/CORE_TEMP-99.9%25_OPTIMAL-00F0FF?style=for-the-badge&logo=nvidia&logoColor=black" />
 </p>
 
+<!-- VISITOR COUNTER GLITCH BADGE -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jatinnn-ui&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <a href="https://github.com/Jatinnn-ui?tab=followers"><img src="https://img.shields.io/github/followers/Jatinnn-ui?label=Followers&style=flat-square&color=blue" alt="Followers" /></a>
-  <a href="https://github.com/Jatinnn-ui"><img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff%20%F0%9F%94%A5-orange?style=flat-square" alt="Status" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Jatinnn-ui&label=CYBER_PULSE_VISITS&color=00ff66&style=flat-square" />
 </p>
+
+</div>
 
 ---
 
-### ⚡ About Me
+### ⚡ // KERNEL LOGS (ABOUT ME)
 
-```yaml
-Developer: Jatin
-Role: Full Stack & AI Developer
-Current Focus: Generative AI, LLMs & Modern Web Frameworks
-Passionate About: Problem Solving, Clean Architecture & Developer UX
-Location: India 🇮🇳
+```bash
+[root@jatin-cyber-node ~]# cat /etc/identity.conf
+
+IDENTITY     : Jatin (aka Jatinnn-ui)
+CLASS        : Full-Stack Architect & AI Systems Engineer
+CLEARANCE    : Level 5 (Root Access)
+WEAPONS      : React, Next.js, Node.js, Python, OpenAI, Vector DBs
+MISSION      : Breaking monoliths, building intelligent autonomous systems.
+LOCATION     : India [20.5937° N, 78.9629° E]
