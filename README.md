@@ -84,11 +84,12 @@
 
 ---
 
-### 📈 // INTERACTIVE COMMIT METRICS
+### 📈 // COMMIT METRICS & ECOSYSTEM
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jatinnn-ui&show_icons=true&theme=synthwave&hide_border=true&title_color=00f0ff&icon_color=7b2cbf&text_color=ffffff&bg_color=090d16" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jatinnn-ui&layout=compact&theme=synthwave&hide_border=true&title_color=00f0ff&text_color=ffffff&bg_color=090d16" width="48%" />
+  <img src="https://img.shields.io/github/followers/Jatinnn-ui?label=Followers&style=for-the-badge&color=00F0FF&logo=github" />
+  <img src="https://img.shields.io/github/stars/Jatinnn-ui?label=Total%20Stars&style=for-the-badge&color=7B2CBF&logo=github" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-FF007F?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
